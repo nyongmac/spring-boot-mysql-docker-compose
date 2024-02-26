@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://mysqldb:3306/sbms
+    url: jdbc:mysql://mysqldb:3306/sbms36
     username: root
-    password: root
+    password: "@Mac#1212*FG"
   jpa:
     hibernate:
       ddl-auto: update
